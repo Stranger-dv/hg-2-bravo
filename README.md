@@ -1,1 +1,6 @@
-# hg-2-bravo
+# bravo
+
+| Nombre | Ubicación |
+| ------ | ------ |
+| Miguel Polanco | Venezuela |
+| Jorbi Fernandez | Venezuela |
